@@ -1,0 +1,8 @@
+<JavaCardProject name="TheThuVien">
+<USER>
+<PKG name="com.kma.thethuvien" aid="11 22 33 44 55" major="1" minor="0">
+<APPLET aid="11 22 33 44 55 00" instanceaid="" parameter="" authority="" privileges="" index="7704" name="Connect"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>

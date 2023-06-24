@@ -1,0 +1,6 @@
+backgroud main: [14,39,64]
+backgroud header: [51,10,103]
+backgroud button: [30,139,185]
+new title: [66,166,194]
+new button: [8,109,131]
+new backgroud main: [254,254,255]
